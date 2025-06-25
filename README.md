@@ -1,4 +1,4 @@
-
+![Header](SDKwebView.png)
 
 
 # MidoconlineiOSSDK
@@ -22,7 +22,7 @@ import MidoconlineiOSSDK
 ```
 ## 2. Uso
 
-El SDK ofrece un botón personalizado en 3 versiones diferentes (shor, medium y circle) el cual podrás usar dependiendo de diseño. Cada versión tiene 2 opciones de color (.blue y .white)
+El SDK ofrece un botón personalizado en 3 versiones diferentes (short, medium y circle) el cual podrás usar dependiendo tus necesidades. Cada versión cuenta con 2 opciones de color (.blue y .white)
 
 2.1 Ejemplo de integración Short version
 
@@ -47,6 +47,9 @@ import MidoconlineiOSSDK
          
 
 ```
+
+![Boton](MidoconlineWeb-variante1.png) ![Boton](MidoconlineWeb-variante2.png)
+
 2.2 Ejemplo de integración Medium version
 
 ```swift
@@ -67,6 +70,8 @@ import MidoconlineiOSSDK
          
 ```
 
+![Boton](MidoconlineWeb-variante3.png) ![Boton](MidoconlineWeb-variante4.png)
+
 2.2 Ejemplo de integración Circle version
 
 ```swift
@@ -82,6 +87,7 @@ import MidoconlineiOSSDK
         ])
         
 ```
+![Boton](MidoconlineWeb-variante5.png) ![Boton](MidoconlineWeb-variante6.png)
 
 ## 3. Requerimientos
 
